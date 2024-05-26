@@ -1,8 +1,3 @@
-Paulo Ramos de Oliveira - Aspirante a análise de dados
+Paulo Ramos de Oliveira - Aspiring data analyst
 
-Apaixonada por desvendar histórias por trás dos dados, estou em transição de carreira para a área de análise de dados. 
-Atualmente, estou aprimorando minhas habilidades em R e buscando projetos interessantes para colaborar. 
-Estou aberta a oportunidades como Analista de Dados Jr. para colocar o conhecimento em prática. Também tenho certificado de suporte em TI feito pelo Google e o Coursera. 
-Estou aprendendo mais 2 Linguagens de programação: Python e Javascipt.
- 
-
+Passionate about uncovering stories behind data, I'm transitioning my career to data analysis. I'm currently improving my R skills and looking for interesting projects to collaborate on. I'm open to opportunities as a Jr. Data Analyst to put my knowledge into practice. I also have an IT support certificate from Google and Coursera. I'm learning 2 more programming languages: Python and Javascipt.
