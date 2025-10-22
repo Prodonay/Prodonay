@@ -1,3 +1,3 @@
 Paulo Ramos de Oliveira - Aspiring data analyst
 
-Passionate about uncovering stories behind data, I'm transitioning my career to data analysis. I'm currently improving my R skills and looking for interesting projects to collaborate on. I'm open to opportunities as a Jr. Data Analyst to put my knowledge into practice. I also have an IT support certificate from Google and Coursera. I'm learning 2 more programming languages: Python and Javascipt.
+Passionate about discovering the stories behind data, I'm transitioning my career to data analysis. I'm currently honing my R skills and looking for interesting projects to collaborate on. I'm open to opportunities as a Junior Data Analyst to put my knowledge to work. I also hold data science and HTML/CSS certifications from Alura and have IT support from Google and Coursera. I'm learning two more programming languages: Python and JavaScript.
