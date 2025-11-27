@@ -6,9 +6,9 @@
 <!-- CONTADOR DE VISITAS -->
 ![Visitors](https://komarev.com/ghpvc/?username=Prodonay&color=6A5ACD&style=for-the-badge)
 
-Bem-vindo ao meu perfil!  
-Sou apaixonado por tecnologia e atualmente foco meus estudos e projetos em **Análise de Dados** e **Desenvolvimento Front-end**.  
-Gosto de transformar dados em soluções úteis e criar interfaces claras e funcionais.
+BemWelcome to my profile!
+I am passionate about technology and currently focus my studies and projects on Data Analysis and Front-end Development.
+I enjoy transforming data into useful solutions and creating clear and functional interfaces.
 
 ---
 
