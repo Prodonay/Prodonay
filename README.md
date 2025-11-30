@@ -57,17 +57,6 @@ I enjoy transforming data into useful solutions and creating clear and functiona
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prodonay&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prodonay&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Onde Me Encontrar
 - GitHub: https://github.com/Prodonay  
 
