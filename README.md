@@ -1,70 +1,92 @@
-<!-- BANNER (opcional) -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Paulo%20Ramos%20(Prodonay)&fontSize=35&fontColor=ffffff&fontAlignY=35)
-
-# 👨‍💻 Paulo Ramos (Prodonay) — Analista de Dados & Front-end
-
 <!-- CONTADOR DE VISITAS -->
-![Visitors](https://komarev.com/ghpvc/?username=Prodonay&color=6A5ACD&style=for-the-badge)
 
-Welcome to my profile!
-I am passionate about technology and currently focus my studies and projects on Data Analysis and Front-end Development.
-I enjoy transforming data into useful solutions and creating clear and functional interfaces.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prodonay&label=Visitas%20no%20Perfil&color=6A5ACD&style=flat" alt="contador de visitas" />
+</p>
 
----
+<!-- BANNER (opcional) -->
 
-## 🚀 Áreas de Atuação
-- 📊 **Análise de Dados**
-- 💻 **Desenvolvimento Front-end**
-- 🌐 Comunicação (Português/Inglês)
+![banner](https://capsule-render.vercel.app/api?type=waving\&color=6A5ACD\&height=180\&section=header\&text=Paulo%20Ramos%20\(Prodonay\)\&fontSize=35\&fontColor=ffffff\&fontAlignY=35)
 
----
+# 👨‍💻 Paulo Ramos (Prodonay)
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 🔹 **Linguagens e Ferramentas**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🔹 **Front-end**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔹 **Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎓 **Graduando em Sistemas de Informação – Faculdade Estácio**
+💻 **Em transição de carreira para a área de Tecnologia da Informação**
+🚀 Foco em **Programação, Dados e Desenvolvimento de Software**
 
 ---
 
-## 📘 Sobre Mim
-- 🎯 Analista de Dados e Dev Front-end em formação  
-- 🧠 Apaixonado por linguagens (PT/EN) e por ensinar  
-- 📈 Criando projetos para evoluir portfólio  
-- 🔍 Curioso, autodidata e focado em crescer na área de tecnologia  
+## 🧠 Sobre mim
+
+Sou um profissional em transição de carreira para a área de **Tecnologia**, com experiência anterior como:
+
+* ✅ Professor de Português e Inglês
+* ✅ Tradutor Freelancer
+* ✅ Segurança Patrimonial
+* ✅ Marketing Digital Orgânico
+* ✅ Vendas
+
+Atualmente, estou cursando **Sistemas de Informação na Faculdade Estácio**, fortalecendo minha base em computação, programação, redes, banco de dados e desenvolvimento de sistemas.
 
 ---
 
-## 📂 Projetos em Destaque
+## 💡 Tecnologias e Linguagens
 
-### 🔸 Repositórios Mais Importantes  
-*(Substitua pelos seus quando quiser)*
+### 🧑‍💻 Linguagens em estudo e prática:
 
-- **Landing Page HTML/CSS** – página responsiva construída do zero  
-- **Análise de Dados com Python** – limpeza, análise e visualização
+* 🔹 **C++** (início atual)
+* 🔸 JavaScript
+* 🔸 Python
+* 🔸 Java
+* 🔸 R (Análise de Dados)
+
+### 🛠️ Ferramentas:
+
+* Git & GitHub
+* VS Code
+* Power BI (básico)
+* Excel / Sheets
+* Terminal / Prompt de Comando
 
 ---
 
-## 🌐 Onde Me Encontrar
-- GitHub: https://github.com/Prodonay  
+## 📊 Áreas de Interesse
+
+* 📌 Desenvolvimento de Software
+* 📌 Front-end
+* 📌 Análise de Dados
+* 📌 Suporte de TI
+* 📌 Programação em geral
 
 ---
 
-<!-- RODAPÉ -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer)
+## 📚 Cursos e Formação
 
- Paulo Ramos de Oliveira - Aspiring data analyst
+* ✅ Licenciatura em Português/Inglês
+* ✅ Cursos na área de Tecnologia (Coursera – TI e Dados)
+* 🎓 **Cursando: Sistemas de Informação – Estácio**
 
+---
 
+## 🎯 Objetivo Profissional
+
+Atuar na área de **Tecnologia da Informação**, seja como:
+
+* Desenvolvedor
+* Analista de Dados
+* Suporte Técnico
+* Programador Júnior
+
+Buscando constante evolução, aprendizado prático e experiência no mercado.
+
+---
+
+## 📫 Contato
+
+* GitHub: [https://github.com/Prodonay](https://github.com/Prodonay)
+* YouTube: (adicione aqui se quiser)
+* LinkedIn: (se quiser, posso montar também)
+
+---
+
+⭐ *"Persistência na tecnologia hoje é o diferencial de amanhã."*
