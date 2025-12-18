@@ -34,7 +34,7 @@ Atualmente, estou cursando **Sistemas de Informação na Faculdade Estácio**, f
 
 ### 🧑‍💻 Linguagens em estudo e prática:
 
-* 🔹 **C++** (início atual)
+* 🔹 **C** (início atual)
 * 🔸 JavaScript
 * 🔸 Python
 * 🔸 Java
