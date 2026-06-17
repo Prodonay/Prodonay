@@ -1,88 +1,112 @@
 # Olá, eu sou Paulo Ramos 👋
 
-🎓 Estudante de Tecnologia da Informação
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Prodonay&label=Visitantes&color=0e75b6&style=flat" alt="contador de visitantes" />
+</p>
+
+🎓 Estudante de **Sistemas de Informação**
 💻 Desenvolvedor em formação
-📚 Experiência em Educação, Tradução e Marketing Digital
-🚀 Em transição para a área de Tecnologia
+🚀 Em transição para Desenvolvimento de Software
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e aprendizado contínuo.
+Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia e aprendizado contínuo.
 
-Atualmente desenvolvo projetos práticos nas áreas de Desenvolvimento de Software, Backend, DevOps e Estruturas de Dados, buscando aplicar conceitos teóricos em soluções reais.
+Tenho experiência profissional em Educação, Tradução e Marketing Digital, e atualmente estou construindo minha carreira em Tecnologia por meio de estudos e projetos práticos.
 
-Minha experiência anterior em Educação me proporcionou disciplina, comunicação e capacidade de aprendizado constante, habilidades que hoje aplico na minha jornada em TI.
+Atualmente estudo e desenvolvo projetos utilizando:
 
+* C
+* Python
+* Java
+* JavaScript
+* Git e GitHub
+* Estruturas de Dados e Algoritmos
 
----
+Tenho interesse especial em:
 
-## 🛠️ Projetos Técnicos
-
-### 🔹 API Flask com Docker e CI/CD
-
-* API REST em Python (Flask)
-* Containerização com Docker
-* Pipeline automatizado com GitHub Actions
-* Build automático a cada push na branch `main`
-
----
-
-### 🔹 Infraestrutura como Código (Terraform)
-
-* Estrutura modular
-* Estudos práticos de IaC
-* Organização de provisionamento em nuvem
-* Automação de infraestrutura
+* Desenvolvimento de Software
+* Desenvolvimento Backend
+* Estruturas de Dados
+* Algoritmos
+* Aplicações reais em C
 
 ---
 
-### 🔹 Estruturas de Dados e Algoritmos
+## 🚀 Projetos
 
-Projetos desenvolvidos em C envolvendo:
+Aqui você encontrará projetos relacionados a:
+
+🌳 **Estruturas de Dados**
 
 * Pilhas
 * Filas
 * Listas
 * Árvores
 * Árvores de decisão
-* Algoritmos clássicos
+
+💻 **Desenvolvimento em C**
+
+* Projetos acadêmicos
+* Sistemas interativos
+* Aplicações práticas
+
+🐍 **Python**
+
+* Automação
+* APIs
+* Estudos e experimentos
+
+☕ **Java**
+
+* Programação Orientada a Objetos
+* Exercícios e aplicações
+
+🌐 **JavaScript**
+
+* Projetos para Web
+* Estudos de frontend e backend
 
 ---
 
-## ⚙️ Pilha Tecnológica
+## ⚙️ Tecnologias
 
-🐍 Python
-🌐 Node.js
-💻 C
-☕ Java
-🟨 JavaScript
-🐳 Docker
-⚙️ GitHub Actions
-🌿 Git
-🐧 Linux
-☁️ AWS
-🏗️ Terraform
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 🎯 Objetivo
 
-Buscando minha primeira oportunidade como:
+Busco minha primeira oportunidade em Tecnologia como:
 
-* Desenvolvedor Backend Júnior
-* DevOps Júnior
-* Cloud Júnior
 * Desenvolvedor de Software Júnior
+* Desenvolvedor Backend Júnior
+* Programador Júnior
 
-📍 Disponível para Recife, híbrido ou remoto.
+📍 Recife - PE
+🌎 Disponível para trabalho remoto ou híbrido.
 
 ---
 
-## 📌 Filosofia
+## 📚 Atualmente estudando
 
-> Aprender, construir e evoluir: tecnologia não tem idade.
+* Estruturas de Dados
+* Algoritmos
+* Linguagem C
+* Desenvolvimento Backend
+* Engenharia de Software
+
+---
+
+> **Aprender, construir e evoluir: tecnologia não tem idade.**
 
 ⭐ Obrigado por visitar meu perfil!
-
