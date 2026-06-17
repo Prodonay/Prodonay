@@ -15,27 +15,6 @@ Atualmente desenvolvo projetos práticos nas áreas de Desenvolvimento de Softwa
 
 Minha experiência anterior em Educação me proporcionou disciplina, comunicação e capacidade de aprendizado constante, habilidades que hoje aplico na minha jornada em TI.
 
----
-
-## 🚀 Projetos Publicados
-
-### 🔹 Microsserviços Node.js
-
-* Arquitetura baseada em microsserviços com Node.js
-* Comunicação entre serviços
-* Organização modular
-
-🌐 Acessar Projeto
-
----
-
-### 🔹 Pipeline CI/CD com Monitoramento
-
-* Pipeline automatizado com GitHub Actions
-* Integração contínua
-* Monitoramento de aplicações
-
-🌐 Acessar Projeto
 
 ---
 
